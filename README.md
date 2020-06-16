@@ -1,3 +1,6 @@
+[node]: https://nodejs.org/es/download/
+[git]: https://git-scm.com/downloads
+
 # Ajustar Código
 
 Punto 1 de Prueba **Ajustar Código**
